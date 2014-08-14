@@ -2,6 +2,6 @@
 <hr/>
 <h2>cjduffett.github.io</h2>
 <ul>
-My personal website <l href="/index.html">carltonduffett.com</l>, launched on 08 August, 2014. 
-Design inspired by <l href="http://www.blacktie.co/">BlackTie.co</l>
+My personal website <a href="/index.html">carltonduffett.com</a>, launched on 08 August, 2014. 
+Design inspired by <a href="http://www.blacktie.co/">BlackTie.co</a>
 </ul>
