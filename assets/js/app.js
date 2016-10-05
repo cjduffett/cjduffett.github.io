@@ -144,7 +144,7 @@ function init_gmap() {
     $('#map').gmap3({
       action: 'init',
       marker: {
-        address: "23 Grand Hill Dr, Dover, MA",
+        address: "Somerville, Massachusetts",
         options: {
           icon: new google.maps.MarkerImage("./assets/images/marker.png")
         }
