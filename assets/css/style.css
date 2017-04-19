@@ -123,13 +123,13 @@ Header Section
   background: #e1e1e1;
   font-size: 12px;
 }
-.portrait .portrait-img-area .profile-links a.facebook {
+.portrait .portrait-img-area .profile-links a.linkedin {
   left: -10px;
   bottom: 0;
   background: #2C92AC;
   color: white;
 }
-.portrait .portrait-img-area .profile-links a.twitter {
+.portrait .portrait-img-area .profile-links a.github {
   right: -10px;
   bottom: 0;
   background: #2C92AC;
