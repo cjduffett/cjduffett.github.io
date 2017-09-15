@@ -1,4 +1,4 @@
-/* 
+/*
     Created on : Mar 5, 2014, 8:13:10 PM
     Author     : Yobio
 */
@@ -68,8 +68,8 @@ body h6 {
   }
 }
 /* end wrapper page section */
-/* ======================================= 
-Header Section 
+/* =======================================
+Header Section
 ========================================== */
 /* wrapper portrait section */
 .portrait {
@@ -80,10 +80,6 @@ Header Section
   padding-bottom: 25px;
   margin-bottom: 10px;
   box-shadow: 0 10px 0 #36546d;
-}
-.portrait .img-arrow {
-  display: none;
-  max-width: 30px;
 }
 .portrait #open-content {
   min-width: 130px;
@@ -96,6 +92,9 @@ Header Section
   padding: 10px 15px;
   color: white;
   border-radius: 10px;
+}
+.portrait .box-note .item a {
+    color: #eaeaea;
 }
 .portrait .box-note:after {
   content: "";
@@ -147,8 +146,8 @@ Header Section
   letter-spacing: 3px;
 }
 /* end portrait section */
-/* ======================================= 
-Main Section Section 
+/* =======================================
+Main Section Section
 ========================================== */
 /* wrapper for content section */
 #main-content {
@@ -1076,8 +1075,8 @@ blockquote {
   color: white;
 }
 /*End  Global CLass */
-/* ======================================= 
-Footer Section 
+/* =======================================
+Footer Section
 ========================================== */
 /* wrapper footer section */
 .footer {

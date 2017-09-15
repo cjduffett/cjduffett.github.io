@@ -144,7 +144,7 @@ function init_gmap() {
     $('#map').gmap3({
       action: 'init',
       marker: {
-        address: "Somerville, Massachusetts",
+        address: "Berkeley, California",
         options: {
           icon: new google.maps.MarkerImage("./assets/images/marker.png")
         }
