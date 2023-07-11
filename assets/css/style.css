@@ -109,6 +109,7 @@ Header Section
 .portrait .portrait-img-area {
   width: 160px;
   margin: 0 auto;
+  margin-top: 40px;
   position: relative;
 }
 .portrait .portrait-img-area .avatar {
